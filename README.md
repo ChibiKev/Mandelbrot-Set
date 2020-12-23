@@ -1,4 +1,4 @@
-## Intro To Computing
+## Mandelbrot Set
 Project for CSC 103 - Intro To Computing with Professor William Skeith at the City College of New York.
 ## About The Project
 In this project, you will implement a simple program to plot the famous [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set). It doesn’t have much mathematical significance that I know of, but it does make pretty pictures. It also makes for good programming practice.
